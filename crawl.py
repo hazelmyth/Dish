@@ -45,7 +45,3 @@ if __name__ == "__main__":
             index += 1
 
     file.close()
-
-
-
-Hello world!!
